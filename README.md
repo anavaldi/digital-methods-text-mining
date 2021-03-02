@@ -11,3 +11,8 @@ the students own research.
 Students will become familiar with **digital methods in text analysis** as a flexible approach that comes with
 a practical set of research instruments to empirically investigate a range of questions in social science. They
 will learn how to approach and **manage text data, analyse texts, and visualize** this information.
+
+
+Course featured by: https://liss-dtp.ac.uk/
+
+![image](liss-dtp-logo-banner-613-x-613.gif)
