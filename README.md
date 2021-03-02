@@ -22,3 +22,5 @@ will learn how to approach and **manage text data, analyse texts, and visualize*
 Course featured by: https://liss-dtp.ac.uk/
 
 ![image](liss-dtp-logo-banner-613-x-613.gif)
+
+[![Foo](liss-dtp-logo-banner-613-x-613.gif)](https://liss-dtp.ac.uk/)
