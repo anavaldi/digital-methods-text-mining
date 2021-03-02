@@ -13,6 +13,12 @@ a practical set of research instruments to empirically investigate a range of qu
 will learn how to approach and **manage text data, analyse texts, and visualize** this information.
 
 
+
+
+
+
+
+
 Course featured by: https://liss-dtp.ac.uk/
 
 ![image](liss-dtp-logo-banner-613-x-613.gif)
