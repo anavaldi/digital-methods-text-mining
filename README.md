@@ -31,9 +31,9 @@ LISS DTP student via the following link: https://www.liss-dtp.ac.uk/registration
 
 📕 Bengfort, B., Bilbro, R., & Ojeda, T. (2018). *Applied text analysis with python: Enabling language-aware data products with machine learning.* O'Reilly Media, Inc.
 
-🌍 https://course.spacy.io/en/chapter1
+🌍 https://course.spacy.io
 
-🌍 https://www.nltk.org/book/ch02.html
+🌍 https://www.nltk.org
 
 Course featured by:
 
