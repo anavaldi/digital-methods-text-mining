@@ -12,6 +12,7 @@ Students will become familiar with **digital methods in text analysis** as a fle
 a practical set of research instruments to empirically investigate a range of questions in social science. They
 will learn how to approach and **manage text data, analyse texts, and visualize** this information.
 
+## Course schedule
 
 | Session date    | Session       | Lecture Topic                  | Seminar topic                     |
 | :-------------  | :----------:  | -----------:                   | -----------:                      |
@@ -23,7 +24,17 @@ will learn how to approach and **manage text data, analyse texts, and visualize*
 | 28 April        | 6             | Text mining in the real world  | Analysing your own text           |
 
 
+### Eligibility
+You must be a PhD student at King’s, Queen Mary or Imperial, and you must have already registered as a
+LISS DTP student via the following link: https://www.liss-dtp.ac.uk/registration/.
 
+### Bibliography
+
+📕 Bengfort, B., Bilbro, R., & Ojeda, T. (2018). *Applied text analysis with python: Enabling language-aware data products with machine learning.* O'Reilly Media, Inc.
+
+🌍 https://course.spacy.io/en/chapter1
+
+🌍 https://www.nltk.org/book/ch02.html
 
 Course featured by:
 
