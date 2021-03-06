@@ -31,13 +31,13 @@ LISS DTP student via the following link: https://www.liss-dtp.ac.uk/registration
 
 📕 Bengfort, B., Bilbro, R., & Ojeda, T. (2018). *Applied text analysis with python: Enabling language-aware data products with machine learning.* O'Reilly Media, Inc.
 
-📕 Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.".
+📕 Bird, S., Klein, E., & Loper, E. (2009). *Natural language processing with Python: analyzing text with the natural language toolkit.* " O'Reilly Media, Inc.".
 
-📕 Eisenstein, J. (2018). Natural language processing.
+📕 Eisenstein, J. (2018). *Natural language processing.*
 
-📕 Hovy, D. (2020). Text Analysis in Python for Social Scientists: Discovery and Exploration. Cambridge University Press.
+📕 Hovy, D. (2020). *Text Analysis in Python for Social Scientists: Discovery and Exploration.* Cambridge University Press.
 
-📕 Manning, C., & Schutze, H. (1999). Foundations of statistical natural language processing. MIT press.
+📕 Manning, C., & Schutze, H. (1999). *Foundations of statistical natural language processing.* MIT press.
 
 
 
