@@ -18,8 +18,8 @@ will learn how to approach and **manage text data, analyse texts, and visualize*
 | 12 April        | 1             | Introduction to text mining    | Import text data                  |
 | 14 April        | 2             | Analysing text                 | Methods for text preprocessing    |
 | 19 April        | 3             | Analysing words                | Methods for word analysis         |
-| 21 April        | 4             | Analysing relations            | Methods for co-ocurrence analysis |
-| 26 April        | 5             | Topic modelling                | Methods for analysing context     |
+| 21 April        | 4             | Topic modelling                | Methods for analysing topics      |
+| 26 April        | 5             | Ethics of NLP + live coding    | Biases and real example analysis  |
 | 28 April        | 6             | Text mining in the real world  | Analysing your own text           |
 
 
