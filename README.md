@@ -19,7 +19,7 @@ will learn how to approach and **manage text data, analyse texts, and visualize*
 | 14 April        | 2             | Analysing text                 | Methods for text preprocessing    |
 | 19 April        | 3             | Analysing words                | Methods for word analysis         |
 | 21 April        | 4             | Topic modelling                | Methods for analysing topics      |
-| 26 April        | 5             | Ethics of NLP + live coding    | Biases and real example analysis  |
+| 26 April        | 5             | NLP Ethics + live coding       | Biases and real example analysis  |
 | 28 April        | 6             | Text mining in the real world  | Analysing your own text           |
 
 
