@@ -5,6 +5,7 @@ en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_
 entrypoints==0.3
 es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-2.3.1/es_core_news_sm-2.3.1.tar.gz
 geopy==2.0.0
+gensim==3.8.3
 idna==2.10
 ipykernel==5.3.4
 ipython==7.16.1
