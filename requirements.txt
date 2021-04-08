@@ -56,6 +56,7 @@ pandocfilters==1.4.3
 parso==0.7.1
 pickleshare==0.7.5
 pexpect==4.8.0
+pdfplumber==0.5.27
 pickleshare==0.7.5
 Pillow==7.1.2
 plac==1.1.3
