@@ -54,7 +54,7 @@ pamela==1.0.0
 pandas==1.0.5
 pandocfilters==1.4.3
 parso==0.7.1
-pdftotext
+pdftotext==2.1.5
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==7.1.2
