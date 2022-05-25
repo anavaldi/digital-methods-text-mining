@@ -27,7 +27,42 @@ will learn how to approach and **manage text data, analyse texts, and visualize*
 You must be a PhD student at King’s, Queen Mary or Imperial, and you must have already registered as a
 LISS DTP student via the following link: https://www.liss-dtp.ac.uk/registration/.
 
-### Bibliography
+### Reading list
+
+#### Intro
+•	Turing, A.M. and Haugeland, J., 1950. Computing machinery and intelligence. The Turing Test: Verbal Behavior as the Hallmark of Intelligence, pp.29-56.
+•	Weizenbaum, J., 1966. ELIZA—a computer program for the study of natural language communication between man and machine. Communications of the ACM, 9(1), pp.36-45.
+•	Hutchins, W.J., 2004, September. The Georgetown-IBM experiment demonstrated in January 1954. In Conference of the Association for Machine Translation in the Americas (pp. 102-114). Springer, Berlin, Heidelberg.
+•	https://www.ibm.com/ibm/history/exhibits/701/701_translator.html
+•	Bender, E.M., Hovy, D. and Schofield, A., 2020, July. Integrating ethics into the NLP curriculum. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Tutorial Abstracts (pp. 6-9).
+
+#### Analysing Text
+•	Friedl, J.E., 2006. Mastering regular expressions. " O'Reilly Media, Inc.". [Introduction]
+•	Anandarajan, M., Hill, C. and Nolan, T., 2019. Term-document representation. In Practical text analytics (pp. 61-73). Springer, Cham. [Chapter 4 and 5]
+•	Bird, S., Klein, E. and Loper, E., 2009. Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.". [Chapter 3 and 7]
+
+#### Analysing words
+•	Mikolov, T., Chen, K., Corrado, G. and Dean, J., 2013. Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781.
+•	Rong, X., 2014. word2vec parameter learning explained. arXiv preprint arXiv:1411.2738.
+•	Bird, S., Klein, E. and Loper, E., 2009. Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.". [Chapter 9]
+
+#### Topic modelling
+•	Blei, D.M., Ng, A.Y. and Jordan, M.I., 2003. Latent dirichlet allocation. Journal of machine Learning research, 3(Jan), pp.993-1022.
+•	Anandarajan, M., Hill, C. and Nolan, T., 2019. Term-document representation. In Practical text analytics (pp. 61-73). Springer, Cham. [Chapter 7]
+•	Bird, S., Klein, E. and Loper, E., 2009. Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.". [Chapter 6]
+
+#### NLP Ethics
+•	Bender, E.M., Gebru, T., McMillan-Major, A. and Shmitchell, S., 2021, March. On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623).
+•	Bolukbasi, T., Chang, K.W., Zou, J.Y., Saligrama, V. and Kalai, A.T., 2016. Man is to computer programmer as woman is to homemaker? debiasing word embeddings. Advances in neural information processing systems, 29.
+•	Caliskan, A., Bryson, J.J. and Narayanan, A., 2017. Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), pp.183-186.
+•	Garg, N., Schiebinger, L., Jurafsky, D. and Zou, J., 2018. Word embeddings quantify 100 years of gender and ethnic stereotypes. Proceedings of the National Academy of Sciences, 115(16), pp.E3635-E3644.
+
+#### Text mining in the real world
+•	Anandarajan, M., Hill, C. and Nolan, T., 2019. Term-document representation. In Practical text analytics (pp. 61-73). Springer, Cham. [Chapter 12]
+•	Bird, S., Klein, E. and Loper, E., 2009. Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.". [Chapter 11].
+
+
+### General Bibliography
 
 📕 Bengfort, B., Bilbro, R., & Ojeda, T. (2018). *Applied text analysis with python: Enabling language-aware data products with machine learning.* O'Reilly Media, Inc.
 
